@@ -205,7 +205,7 @@ body {
 }
 
 /* Part 2*/
-html,body{
+html, body{
   margin: 0px;
   height: 100%;
 }
@@ -223,12 +223,13 @@ html,body{
 
 .container{
   position: absolute;
-  top: 0;
+  top: 15px;
   left: 0;
   height: 100%;
   width: 100%;
   text-align: center;
   color: white;
+  font-size: 2em;
   font-family: cursive;
 }
 
